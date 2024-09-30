@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067335699965",
+    "project_id": "faceattend-f96f2",
+    "storage_bucket": "faceattend-f96f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067335699965:android:7dd3eca37dd6bdaee59d94",
+        "android_client_info": {
+          "package_name": "com.example.faceattend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZGRflbDinLpKLhFBy74p7bTRA7BwXfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
